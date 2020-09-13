@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 	- HTML and CSS :white_check_mark:
 	- Bootstrap
 	- Mysql
-	- MonogoDB
 	- Flask
 	- Django
 
