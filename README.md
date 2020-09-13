@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
  <a href="https://medium.com/@1638" target="blank">
-  <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+  <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
  </a>
  <a href="mailto:steben.12q@gmail.com" target="blank">
-  <img align="center" alt="Pramod's Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg />
+  <img align="center" alt="Pramod's Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
  </a>
   <br/>
   <br/>
