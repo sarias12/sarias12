@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>I am a  student from <a href="https://www.holbertonschool.com/"><b>Holberton School</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+### <img src="https://github.com/sarias12/sarias12/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/sarias12/sarias12/blob/master/Assets/Earth.gif" width="24px">
+<em>I am a  student from <a href="https://www.holbertonschool.com/"><b>Holberton School</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/sarias12/sarias12/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/sarias12/sarias12/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- Python ❤️
 	- Some C and Javascript
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/sarias12/sarias12/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML and CSS :white_check_mark:
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>  
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/sarias12/sarias12/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/stebenarias/" target="blank">
