@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Pramod's Medium" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
  </a>
  <a href="mailto:steben.12q@gmail.com" target="blank">
-  <img align="center" alt="Pramod's Gmail" width="30px" src="https://github.com/sarias12/sarias12/blob/master/Assets/Gmail.svg" />
+  <img align="center" alt="Pramod's Gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg />
  </a>
   <br/>
   <br/>
