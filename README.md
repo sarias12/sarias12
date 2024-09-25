@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ## 🌱 I’m currently learning ...
-- **Full Stack Developer**
-- **IX/UX**
+- **SOLID**
+- **Patterns Desing**
 <br/>
   <br/>
 
